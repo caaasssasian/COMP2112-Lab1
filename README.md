@@ -10,4 +10,5 @@ const food = [
 console.table(food);
 ```
 Output would be:
-![Lab 1 Table](/images/logo.png)
+
+![Food Table](https://github.com/caaasssasian/COMP2112-Lab1/blob/master/e9be9b652cb60d348bee2d7fcfa0715a.png)
